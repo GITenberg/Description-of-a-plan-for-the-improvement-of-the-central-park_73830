@@ -1,5 +1,8 @@
 _repo: Description-of-a-plan-for-the-improvement-of-the-central-park_73830
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73830-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Olmsted, Frederick Law
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '57238'
     url: http://www.gutenberg.org/2009/agents/57238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73830#Description-of-a-plan-for-the-improvement-of-the-central-park
 gutenberg_issued: '2024-06-15'
 gutenberg_type: Text
 identifiers:
